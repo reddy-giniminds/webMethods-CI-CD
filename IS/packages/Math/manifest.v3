@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <value name="build">10.3.39</value>
+  <null name="description"/>
+  <value name="created_date">01-07-2026 10:13:32 IST</value>
+  <null name="extendedProperties"/>
+  <value name="target_server_version">11.1.0.0</value>
+  <value name="name">Math</value>
+  <value name="time">2026-07-01 11:37:59 IST</value>
+  <value name="jvm_version"></value>
+  <value name="publisher">GINIMINDS-KISHORE.GINIMINDS.LOCAL</value>
+  <value name="patch_nums"></value>
+</Values>
